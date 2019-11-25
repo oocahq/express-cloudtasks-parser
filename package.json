@@ -1,11 +1,13 @@
 {
-  "name": "express-cloud-tasks-parser",
+  "name": "@oocahq/express-cloud-tasks-parser",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish"
   },
-  "author": "Anucha Petchagun <big@bigthinks.io>",
-  "license": "ISC"
+  "author": "Anucha Petchagun <big@ooca.co>",
+  "license": "MIT",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
