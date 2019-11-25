@@ -1,5 +1,5 @@
 {
-  "name": "@oocahq/express-cloud-tasks-parser",
+  "name": "@oocahq/express-cloudtasks-parser",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
