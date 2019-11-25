@@ -1,14 +1,11 @@
 {
   "name": "@oocahq/express-cloudtasks-parser",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
   },
   "author": "Anucha Petchagun <big@ooca.co>",
-  "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
+  "license": "MIT"
 }
